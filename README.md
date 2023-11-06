@@ -34,11 +34,11 @@ Ainda sendo trabalhado
 
 ## Como rodar os testes
 
-Após instalar os Pré-requisitos é importante configurar o Application.properties
-spring.datasource.url=jdbc:postgresql://localhost:porta/tabela
-spring.datasource.driver-class-name=org.postgresql.Driver
-spring.datasource.username= Nome do usuário
-spring.datasource.password= Senha
+<p>Após instalar os Pré-requisitos é importante configurar o Application.properties<\p>
+<p>spring.datasource.url=jdbc:postgresql://localhost:porta/tabela<\p>
+<p>spring.datasource.driver-class-name=org.postgresql.Driver<\p>
+<p>spring.datasource.username= Nome do usuário<\p>
+<p>spring.datasource.password= Senha<\p>
 
 Para o back-end
 Usar insomnia para conectar e mandar POST e GET
