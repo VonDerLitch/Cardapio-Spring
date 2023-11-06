@@ -34,22 +34,22 @@ Ainda sendo trabalhado
 
 ## Como rodar os testes
 
-<p>Após instalar os Pré-requisitos é importante configurar o Application.properties<\p>
-<p>spring.datasource.url=jdbc:postgresql://localhost:porta/tabela<\p>
-<p>spring.datasource.driver-class-name=org.postgresql.Driver<\p>
-<p>spring.datasource.username= Nome do usuário<\p>
-<p>spring.datasource.password= Senha<\p>
+<p>Após instalar os Pré-requisitos é importante configurar o Application.properties</p>
+<p>spring.datasource.url=jdbc:postgresql://localhost:porta/tabela</p>
+<p>spring.datasource.driver-class-name=org.postgresql.Driver</p>
+<p>spring.datasource.username= Nome do usuário</p>
+<p>spring.datasource.password= Senha</p>
 
-Para o back-end
-Usar insomnia para conectar e mandar POST e GET
-Exemplo:localhost:8080/food
-Com metodo GET ALL FOOD para mostrar a tabela e POST com codigo SQL para adicionar {
-	"price": 12,
-	"title": "Refrigerante",
-	"image": ""
+## Iniciando/Configurando banco de dados
+<p>Usar insomnia para conectar e mandar POST e GET</p>
+<p></p>Exemplo:localhost:8080/food</p>
+<p></p>Com metodo GET ALL FOOD para mostrar a tabela e POST com codigo SQL para adicionar {</p>
+	<p>"price": 12,</p>
+	<p>"title": "Refrigerante",</p>
+	<p>"image": ""</p>
 	
-}
-É importante ja ter criado a tabela "foods" dentro do banco de dados "food" ou modificar no codigo para o seu BD e TABLE, porém criei um db.migration que faz automáticamente.
+<p>},</p>
+<p>É importante ja ter criado a tabela "foods" dentro do banco de dados "food" ou modificar no codigo para o seu BD e TABLE, porém criei um db.migration que faz automáticamente.,</p>
 
 ## Resolvendo Problemas :exclamation:
 
