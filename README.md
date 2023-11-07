@@ -39,6 +39,10 @@ Ainda sendo trabalhado
 <p>spring.datasource.driver-class-name=org.postgresql.Driver</p>
 <p>spring.datasource.username= Nome do usuário</p>
 <p>spring.datasource.password= Senha</p>
+<p>Criar projeto com NPM</p>
+<p>npm create vite@latest</p>
+<p>cd "nome do projeto"</p>
+<p>code .</p>
 
 ## Iniciando/Configurando banco de dados
 <p>Usar insomnia para conectar e mandar POST e GET</p>
