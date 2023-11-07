@@ -34,6 +34,7 @@ Ainda sendo trabalhado
 <dl>Dependências precisam ser instaladas com o Maven</dl>
 <dl>Node JS https://nodejs.org/en/download/current</dl>
 <dl>VSCODE https://code.visualstudio.com/download</dl>
+<dl>NPM install no VSCODE</dl>
 ## Como rodar os testes
 
 <p>Após instalar os Pré-requisitos é importante configurar o Application.properties</p>
