@@ -31,7 +31,7 @@ Ainda sendo trabalhado
 <dl>Insomnia "https://insomnia.rest/download"</dl>
 <dl>JDK17 "https://www.oracle.com/br/java/technologies/downloads/"</dl>
 <dl>Spring - Maven - Java - 3.1.5 Spring Boot - Jar "https://start.spring.io", Para melhor vizualização das dependências, veja o código.</dl>
-
+<dl>Dependências precisam ser instaladas com o Maven</dl>
 ## Como rodar os testes
 
 <p>Após instalar os Pré-requisitos é importante configurar o Application.properties</p>
