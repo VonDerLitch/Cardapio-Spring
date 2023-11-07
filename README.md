@@ -54,14 +54,8 @@ Ainda sendo trabalhado
 ## Resolvendo Problemas :exclamation:
 
 <p>Erro : Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.</p>
-<p>"<plugin> <br> 
-    <groupId>org.apache.maven.plugins</groupId>  <br> 
-    <artifactId>maven-surefire-plugin</artifactId>  <br> 
-    <version>2.22.2</version>  <br> 
-    <configuration>  <br> 
-    <skipTests>true</skipTests>  <br> 
-    </configuration>  <br> 
-</plugin>  "</p>
+
+![image](https://github.com/VonDerLitch/Cardapio-Spring/assets/99680991/cb23e9d2-c9a2-42e2-b4f1-6cf84648c3c3)
 
 ## Desenvolvedores/Contribuintes :octocat:
 Niflheim.Morke
