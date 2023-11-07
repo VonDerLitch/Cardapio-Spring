@@ -34,8 +34,7 @@ Ainda sendo trabalhado
 <dl>Dependências precisam ser instaladas com o Maven</dl>
 <dl>Node JS https://nodejs.org/en/download/current</dl>
 <dl>VSCODE https://code.visualstudio.com/download</dl>
-<dl>npm install no VSCODE</dl>
-<dl>npm run dev</dl>
+
 ## Como rodar os testes
 
 <p>Após instalar os Pré-requisitos é importante configurar o Application.properties</p>
@@ -47,6 +46,8 @@ Ainda sendo trabalhado
 <p>npm create vite@latest</p>
 <p>cd "nome do projeto"</p>
 <p>code .</p>
+<p>npm install no VSCODE</p>
+<p>npm run dev</p>
 
 ## Iniciando/Configurando banco de dados
 <p>Usar insomnia para conectar e mandar POST e GET</p>
