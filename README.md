@@ -48,6 +48,7 @@ Ainda sendo trabalhado
 <p>code .</p>
 <p>npm install no VSCODE</p>
 <p>npm run dev</p>
+<p>npm install tanstack-query/react-query</p>
 
 ## Iniciando/Configurando banco de dados
 <p>Usar insomnia para conectar e mandar POST e GET</p>
