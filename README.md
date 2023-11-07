@@ -58,5 +58,7 @@ Ainda sendo trabalhado
 
 ![image](https://github.com/VonDerLitch/Cardapio-Spring/assets/99680991/cb23e9d2-c9a2-42e2-b4f1-6cf84648c3c3)
 
+<p>Se a porta 8080 já estiver em uso você pode fechar o serviço, no cmd com o comando "netstat -a -o -n" você consegue identificar o PID</p>
+
 ## Desenvolvedores/Contribuintes :octocat:
 Niflheim.Morke
