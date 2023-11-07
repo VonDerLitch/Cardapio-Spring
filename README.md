@@ -53,7 +53,15 @@ Ainda sendo trabalhado
 
 ## Resolvendo Problemas :exclamation:
 
-Ainda sem topico
+<p>Erro : Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.</p>
+<p>"<plugin> <br> 
+    <groupId>org.apache.maven.plugins</groupId>  <br> 
+    <artifactId>maven-surefire-plugin</artifactId>  <br> 
+    <version>2.22.2</version>  <br> 
+    <configuration>  <br> 
+    <skipTests>true</skipTests>  <br> 
+    </configuration>  <br> 
+</plugin>  "</p>
 
 ## Desenvolvedores/Contribuintes :octocat:
 Niflheim.Morke
