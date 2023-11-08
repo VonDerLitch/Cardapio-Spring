@@ -71,5 +71,7 @@ Ainda sendo trabalhado
 
 <p>Se a porta 8080 já estiver em uso você pode fechar o serviço, no cmd com o comando "netstat -a -o -n" você consegue identificar o PID</p>
 
+<p>Erro ao baixar react-query use o seguinte comando "npm i @tanstack/react-query" </p>
+
 ## Desenvolvedores/Contribuintes :octocat:
 Niflheim.Morke
