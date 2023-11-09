@@ -11,9 +11,9 @@
 
 :heavy_check_mark: Criar item
 
-:heavy_check_mark: Excluir item  
+ Excluir item  
 
-:heavy_check_mark: Atualizar item
+ Atualizar item
 
 ## Layout ou Deploy da Aplicação :dash:
 
